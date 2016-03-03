@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rotulidedominab00offigoog_0003.png"; bbox 0 0 1365 1742; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 102 466 192">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 102 466 192">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 102 466 138; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 218 102 311 138; x_wconf 37' lang='lat' dir='ltr'>1³32».st</span> <span class='ocrx_word' id='word_1_2' title='bbox 330 105 466 137; x_wconf 62' lang='lat' dir='ltr'>squ-45</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 279 174 294 192; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 279 174 294 192; x_wconf 55' lang='grc' dir='ltr'>-ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 533 684 939 1058">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 533 684 939 1058">
+     <span class='ocr_line' id='line_1_3' title="bbox 533 684 939 1058; baseline 0 684"><span class='ocrx_word' id='word_1_4' title='bbox 533 684 939 1058; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 289 1334 816 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 289 1334 816 1388">
+     <span class='ocr_line' id='line_1_4' title="bbox 289 1334 292 1345; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 289 1334 292 1345; x_wconf 83' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 291 1358 816 1388; baseline -0.01 -3"><span class='ocrx_word' id='word_1_6' title='bbox 291 1358 294 1388; x_wconf 68' lang='grc'>’,</span> <span class='ocrx_word' id='word_1_7' title='bbox 573 1366 691 1382; x_wconf 78' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_8' title='bbox 706 1364 816 1381; x_wconf 62' lang='lat' dir='ltr'>comma</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
